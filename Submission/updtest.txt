@@ -1,0 +1,9 @@
+South Korea; P=12493879218347; A=5; C=Arctic
+North Korea; P= 678,987; A=34985723198; C=Asia
+Egypt; A= 27; C= Arctic
+Myanmar; P=457,891; A=5; C=Asia
+Italy; C=South America; A=69; P=567,0142134
+Canada; C=Asia; A=443; P=567,123
+Brazil; C= Arctic
+Nigeria; C= noRtH                                       AmeRiCa
+South Korea; C= SouTh                                                                            aMerIca
